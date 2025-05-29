@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AntiFraud.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Transaction.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AntiFraud.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AntiFraud.Domain.dll": {}
+        }
+      },
+      "Transaction.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Transaction.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transaction.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AntiFraud.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AntiFraud.Domain/AntiFraud.Domain.csproj",
+      "msbuildProject": "../AntiFraud.Domain/AntiFraud.Domain.csproj"
+    },
+    "Transaction.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Transaction.Domain/Transaction.Domain.csproj",
+      "msbuildProject": "../Transaction.Domain/Transaction.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AntiFraud.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\l.alvarez\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\l.alvarez\\source\\repos\\Payment\\Transaction.Infrastructure\\Transaction.Infrastructure.csproj",
+      "projectName": "Transaction.Infrastructure",
+      "projectPath": "C:\\Users\\l.alvarez\\source\\repos\\Payment\\Transaction.Infrastructure\\Transaction.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\l.alvarez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\l.alvarez\\source\\repos\\Payment\\Transaction.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\l.alvarez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\l.alvarez\\source\\repos\\Payment\\AntiFraud.Domain\\AntiFraud.Domain.csproj": {
+              "projectPath": "C:\\Users\\l.alvarez\\source\\repos\\Payment\\AntiFraud.Domain\\AntiFraud.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

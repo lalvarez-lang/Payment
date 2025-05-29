@@ -1,0 +1,12 @@
+C:\Users\l.alvarez\source\repos\Payment\Transaction.Domain\bin\Debug\net8.0\Transaction.Domain.deps.json
+C:\Users\l.alvarez\source\repos\Payment\Transaction.Domain\bin\Debug\net8.0\Transaction.Domain.dll
+C:\Users\l.alvarez\source\repos\Payment\Transaction.Domain\bin\Debug\net8.0\Transaction.Domain.pdb
+C:\Users\l.alvarez\source\repos\Payment\Transaction.Domain\obj\Debug\net8.0\Transaction.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.alvarez\source\repos\Payment\Transaction.Domain\obj\Debug\net8.0\Transaction.Domain.AssemblyInfoInputs.cache
+C:\Users\l.alvarez\source\repos\Payment\Transaction.Domain\obj\Debug\net8.0\Transaction.Domain.AssemblyInfo.cs
+C:\Users\l.alvarez\source\repos\Payment\Transaction.Domain\obj\Debug\net8.0\Transaction.Domain.csproj.CoreCompileInputs.cache
+C:\Users\l.alvarez\source\repos\Payment\Transaction.Domain\obj\Debug\net8.0\Transaction.Domain.sourcelink.json
+C:\Users\l.alvarez\source\repos\Payment\Transaction.Domain\obj\Debug\net8.0\Transaction.Domain.dll
+C:\Users\l.alvarez\source\repos\Payment\Transaction.Domain\obj\Debug\net8.0\refint\Transaction.Domain.dll
+C:\Users\l.alvarez\source\repos\Payment\Transaction.Domain\obj\Debug\net8.0\Transaction.Domain.pdb
+C:\Users\l.alvarez\source\repos\Payment\Transaction.Domain\obj\Debug\net8.0\ref\Transaction.Domain.dll
