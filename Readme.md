@@ -50,4 +50,4 @@ POST /transaction: Creates a transaction (initial status: pending).
 GET /transaction/{id}: Queries the status of a transaction.
 
 Notes
-The database is in-memory to facilitate testing.
+The database is local Environment,Kafka on my local machine has restricted access by IP. but I generate all configuration for dev environment.
